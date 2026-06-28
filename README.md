@@ -173,10 +173,6 @@ Isso transforma o NotebookLM em uma plataforma de aprendizado guiado, tornando o
 
 # 🤖 Sobre o PROMPT+
 
-**Prompt+**
-
-https://chatgpt.com/share/6a4085d9-fce8-83e9-9ff7-420cfbf9ed47
-
 Para criar o Guia de Estudos foi desenvolvido um agente chamado **PROMPT+**, especializado na construção de prompts de alta qualidade para Grandes Modelos de Linguagem (LLMs).
 
 Seu objetivo é coletar informações do usuário de forma incremental, eliminando ambiguidades e estruturando prompts completos seguindo boas práticas de Engenharia de Prompts.
@@ -197,6 +193,8 @@ Além disso, aplica diversos **Guardrails**, garantindo que o prompt final seja 
 Esse mesmo processo foi utilizado para gerar o Guia de Estudos presente neste Notebook.
 
 Exemplo de caso para criação do guia de estudos: https://chatgpt.com/share/6a4085d9-fce8-83e9-9ff7-420cfbf9ed47
+
+Acesso para teste: https://chatgpt.com/share/6a4085d9-fce8-83e9-9ff7-420cfbf9ed47
 
 ---
 
