@@ -191,6 +191,7 @@ O agente utiliza uma metodologia baseada em oito etapas:
 Além disso, aplica diversos **Guardrails**, garantindo que o prompt final seja claro, consistente e pronto para utilização em outro modelo de IA.
 
 Esse mesmo processo foi utilizado para gerar o Guia de Estudos presente neste Notebook.
+
 Exemplo de caso para criação do guia de estudos: https://chatgpt.com/share/6a4085d9-fce8-83e9-9ff7-420cfbf9ed47
 
 ---
