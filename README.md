@@ -17,7 +17,7 @@ O material é baseado exclusivamente em **fontes oficiais**, tornando-se uma exc
 ## 🔗 Acesse o Notebook
 
 > **NotebookLM:**  
-> **(Insira aqui o link público do NotebookLM)**
+> **(https://notebooklm.google.com/notebook/c37ca313-751e-4774-bc2d-62a4c9986c13)**
 
 ---
 
