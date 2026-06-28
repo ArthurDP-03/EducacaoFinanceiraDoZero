@@ -218,7 +218,3 @@ Antes de tomar qualquer decisão financeira, considere seu perfil de investidor 
 
 Este repositório destina-se exclusivamente ao compartilhamento de conhecimento e estudos sobre educação financeira, respeitando os direitos autorais das fontes utilizadas.
 
----
-```
-
-Esse formato fica bem mais profissional no GitHub, com seções claras, títulos, exemplos e organização semelhante à de projetos de documentação técnica.
