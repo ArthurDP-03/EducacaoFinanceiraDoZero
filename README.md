@@ -1,23 +1,28 @@
 # 💰 Educação Financeira do Zero
 
-> Um repositório que reúne conteúdos confiáveis sobre educação financeira, planejamento financeiro e investimentos, organizados em um NotebookLM interativo com base em materiais oficiais do Banco Central do Brasil, CVM e outras instituições de referência.
+> Um repositório que reúne conteúdos confiáveis sobre educação financeira, planejamento financeiro e investimentos, organizados em um NotebookLM interativo baseado em materiais oficiais do Banco Central do Brasil, CVM, ANBIMA, B3 e outras instituições de referência.
 
 ---
 
-## 📚 Sobre o Projeto
+# 📚 Sobre o Projeto
 
 O **Educação Financeira do Zero** foi criado com o objetivo de centralizar conhecimentos fundamentais sobre finanças pessoais em um único ambiente de consulta e aprendizado.
 
-Todo o conteúdo foi estruturado utilizando o **NotebookLM**, permitindo realizar pesquisas, gerar resumos e esclarecer dúvidas de forma rápida e contextualizada.
+Todo o conteúdo foi organizado utilizando o **NotebookLM**, permitindo explorar materiais oficiais por meio de Inteligência Artificial, facilitando pesquisas, revisões e consultas contextualizadas.
 
-O material é baseado exclusivamente em **fontes oficiais**, tornando-se uma excelente referência para estudantes, profissionais e qualquer pessoa interessada em desenvolver uma relação mais saudável com o dinheiro.
+Além da organização das fontes, este notebook possui um **Guia de Estudos Inteligente**, desenvolvido para orientar o aprendizado do usuário do nível iniciante ao avançado.
+
+Esse guia foi produzido utilizando um agente especializado em **Engenharia de Prompts**, chamado **PROMPT+**, criado por mim com base nos conceitos estudados durante o curso de Engenharia de Prompts da **DIO (Digital Innovation One)**.
+
+O resultado é um material estruturado para transformar uma grande coleção de documentos em uma trilha de aprendizagem organizada, progressiva e muito mais eficiente.
 
 ---
 
-## 🔗 Acesse o Notebook
+# 🔗 Acesse o Notebook
 
-> **NotebookLM:**  
-> **(https://notebooklm.google.com/notebook/c37ca313-751e-4774-bc2d-62a4c9986c13)**
+**NotebookLM**
+
+https://notebooklm.google.com/notebook/c37ca313-751e-4774-bc2d-62a4c9986c13
 
 ---
 
@@ -27,11 +32,12 @@ Este projeto busca auxiliar o usuário a:
 
 - Organizar suas finanças pessoais;
 - Construir um planejamento financeiro sólido;
-- Compreender como funciona o sistema financeiro brasileiro;
-- Aprender a utilizar crédito de forma consciente;
-- Entender os diferentes tipos de investimentos;
-- Planejar a aposentadoria e sucessão patrimonial;
-- Desenvolver hábitos financeiros sustentáveis.
+- Compreender o funcionamento do Sistema Financeiro Nacional;
+- Utilizar crédito de forma consciente;
+- Conhecer os principais investimentos disponíveis no mercado brasileiro;
+- Planejar objetivos de curto, médio e longo prazo;
+- Desenvolver hábitos financeiros sustentáveis;
+- Aprender por meio de conteúdos oficiais e atualizados.
 
 ---
 
@@ -39,52 +45,52 @@ Este projeto busca auxiliar o usuário a:
 
 ## 🏦 1. Planejamento Financeiro e Orçamento
 
-Aprenda a organizar sua vida financeira por meio de ferramentas práticas.
+Aprenda a organizar sua vida financeira utilizando ferramentas práticas de planejamento.
 
-### Conteúdos abordados
+### Conteúdos
 
-- Patrimônio líquido
-- Diagnóstico financeiro
-- Planejamento financeiro
-- Metas financeiras
-- Fluxo de caixa
-- Receitas e despesas
-- Orçamento doméstico
-- Controle financeiro
-- Reserva de emergência
-- Organização financeira familiar
+- Patrimônio Líquido
+- Diagnóstico Financeiro
+- Planejamento Financeiro
+- Metas Financeiras
+- Fluxo de Caixa
+- Receitas e Despesas
+- Orçamento Doméstico
+- Controle Financeiro
+- Reserva de Emergência
+- Organização Financeira Familiar
 
 ---
 
 ## 💳 2. Cidadania Financeira
 
-Entenda como exercer seus direitos e deveres como consumidor de produtos financeiros.
+Compreenda seus direitos, deveres e responsabilidades dentro do sistema financeiro.
 
-### Conteúdos abordados
+### Conteúdos
 
-- Conceito de cidadania financeira
-- Educação financeira
-- Inclusão financeira
-- Proteção ao consumidor
-- Participação cidadã
+- Conceito de Cidadania Financeira
+- Educação Financeira
+- Inclusão Financeira
+- Proteção ao Consumidor
+- Participação Cidadã
 - Sistema Financeiro Nacional
 
 ---
 
 ## 📉 3. Gestão de Dívidas e Crédito
 
-Aprenda a utilizar o crédito de maneira inteligente e evitar o superendividamento.
+Aprenda como utilizar crédito de maneira responsável.
 
-### Conteúdos abordados
+### Conteúdos
 
-- Necessidades × desejos
-- Consumo consciente
-- Crédito responsável
+- Necessidades × Desejos
+- Consumo Consciente
+- Crédito Responsável
 - Empréstimos
 - Financiamentos
-- Cartão de crédito
-- Juros simples
-- Juros compostos
+- Cartão de Crédito
+- Juros Simples
+- Juros Compostos
 - Custo Efetivo Total (CET)
 - Endividamento
 
@@ -92,7 +98,7 @@ Aprenda a utilizar o crédito de maneira inteligente e evitar o superendividamen
 
 ## 📈 4. Investimentos
 
-Conheça as principais modalidades de investimento disponíveis no mercado brasileiro.
+Conheça as principais modalidades de investimento disponíveis no Brasil.
 
 ### Renda Fixa
 
@@ -109,70 +115,105 @@ Conheça as principais modalidades de investimento disponíveis no mercado brasi
 
 ### Conceitos Fundamentais
 
-- Risco
-- Liquidez
-- Rentabilidade
+- Perfil do Investidor
 - Diversificação
-- Perfil do investidor
+- Liquidez
+- Risco
+- Rentabilidade
 
 ---
 
 ## 👴 5. Previdência e Planejamento de Longo Prazo
 
-Planeje seu futuro financeiro de forma consciente.
+Planeje seu futuro financeiro com segurança.
 
-### Conteúdos abordados
+### Conteúdos
 
 - Previdência Social (INSS)
-- Regras de aposentadoria
+- Regras de Aposentadoria
 - Previdência Privada
 - PGBL
 - VGBL
-- Planejamento sucessório
+- Planejamento Sucessório
 - Testamentos
 - Doações
-- Holdings familiares
+- Holdings Familiares
 
 ---
 
-# 🤖 Recursos do NotebookLM
+# 🎓 Guia de Estudos Inteligente
 
-Ao acessar o Notebook, você poderá utilizar recursos de inteligência artificial para:
+Um dos grandes diferenciais deste projeto é a presença de um **Guia de Estudos personalizado**, criado especialmente para ser utilizado dentro do NotebookLM.
 
-- ✅ Fazer perguntas sobre qualquer conceito financeiro;
-- ✅ Gerar resumos personalizados;
-- ✅ Criar guias de estudo;
-- ✅ Produzir checklists financeiros;
-- ✅ Revisar conteúdos rapidamente;
-- ✅ Explorar relações entre diferentes temas.
+O guia foi desenvolvido utilizando o **PROMPT+**, um agente especialista em Engenharia de Prompts criado por mim no ChatGPT.
 
-### Exemplos de perguntas
+Sua construção foi baseada nos princípios estudados durante o curso de **Engenharia de Prompts da DIO**, aplicando conceitos como:
 
-```
-Qual a diferença entre PGBL e VGBL?
-```
+- Prompt Engineering
+- Estruturação de contexto
+- Definição de papéis (Role Prompting)
+- Organização por etapas
+- Few-shot Learning
+- Restrições e Guardrails
+- Definição de formato de saída
+- Eliminação de ambiguidades
+- Coleta incremental de requisitos
 
-```
-Como montar uma reserva de emergência?
-```
+Em vez de apenas solicitar resumos dos documentos, o Guia de Estudos conduz o aluno por uma trilha organizada de aprendizagem, orientando:
 
-```
-O que é Custo Efetivo Total (CET)?
-```
+- qual conteúdo estudar primeiro;
+- como utilizar o NotebookLM durante os estudos;
+- quais perguntas fazer para aprofundar cada assunto;
+- como revisar os conceitos;
+- como consolidar o aprendizado antes de avançar para tópicos mais complexos.
 
-```
-Quando vale a pena investir em Tesouro Direto?
-```
+Isso transforma o NotebookLM em uma plataforma de aprendizado guiado, tornando o estudo muito mais eficiente.
 
-```
-Qual a diferença entre renda fixa e renda variável?
-```
+---
+
+# 🤖 Sobre o PROMPT+
+
+Para criar o Guia de Estudos foi desenvolvido um agente chamado **PROMPT+**, especializado na construção de prompts de alta qualidade para Grandes Modelos de Linguagem (LLMs).
+
+Seu objetivo é coletar informações do usuário de forma incremental, eliminando ambiguidades e estruturando prompts completos seguindo boas práticas de Engenharia de Prompts.
+
+O agente utiliza uma metodologia baseada em oito etapas:
+
+1. Definição da tarefa;
+2. Contexto ou papel do modelo;
+3. Conteúdo principal;
+4. Conteúdo de apoio;
+5. Exemplos (Few-shot);
+6. Restrições;
+7. Características desejadas da resposta;
+8. Formato da saída.
+
+Além disso, aplica diversos **Guardrails**, garantindo que o prompt final seja claro, consistente e pronto para utilização em outro modelo de IA.
+
+Esse mesmo processo foi utilizado para gerar o Guia de Estudos presente neste Notebook.
+
+---
+
+# 🚀 Como aproveitar melhor este Notebook
+
+Para obter os melhores resultados, siga esta sequência:
+
+1. Leia o Guia de Estudos disponível no Notebook;
+2. Estude um tema por vez;
+3. Solicite resumos após concluir cada tópico;
+4. Faça perguntas para aprofundar os conceitos;
+5. Peça exemplos práticos;
+6. Solicite comparações entre conceitos semelhantes;
+7. Gere checklists para revisar o conteúdo;
+8. Revise periodicamente os assuntos estudados.
 
 ---
 
 # 📚 Fontes Utilizadas
 
-Todo o conteúdo deste notebook foi compilado a partir de materiais produzidos por instituições oficiais brasileiras.
+Todo o conteúdo deste Notebook foi compilado exclusivamente a partir de materiais produzidos por instituições oficiais brasileiras.
+
+Entre elas:
 
 - Banco Central do Brasil (BCB)
 - Comissão de Valores Mobiliários (CVM)
@@ -181,7 +222,7 @@ Todo o conteúdo deste notebook foi compilado a partir de materiais produzidos p
 - ANBIMA
 - B3
 
-Entre os materiais utilizados destacam-se:
+Os principais materiais utilizados incluem:
 
 - Antes de Investir (CVM)
 - Guia CVM de Planejamento Financeiro
@@ -191,7 +232,7 @@ Entre os materiais utilizados destacam-se:
 
 ---
 
-# 🎓 Público-alvo
+# 🎓 Público-Alvo
 
 Este material é indicado para:
 
@@ -200,15 +241,16 @@ Este material é indicado para:
 - Profissionais;
 - Famílias;
 - Pessoas que desejam organizar suas finanças;
-- Iniciantes no mundo dos investimentos.
+- Iniciantes no mundo dos investimentos;
+- Interessados em educação financeira baseada em fontes oficiais.
 
 ---
 
 # ⚠️ Aviso Importante
 
-Este projeto possui finalidade **exclusivamente educacional**.
+Este projeto possui finalidade exclusivamente educacional.
 
-Todo o conteúdo foi elaborado com base em fontes públicas e oficiais e **não constitui recomendação de investimento**, consultoria financeira ou indicação de compra e venda de ativos.
+Todo o conteúdo foi elaborado com base em fontes públicas e oficiais e **não constitui recomendação de investimento, consultoria financeira ou indicação de compra e venda de ativos.**
 
 Antes de tomar qualquer decisão financeira, considere seu perfil de investidor e, quando necessário, procure orientação profissional.
 
@@ -218,3 +260,4 @@ Antes de tomar qualquer decisão financeira, considere seu perfil de investidor 
 
 Este repositório destina-se exclusivamente ao compartilhamento de conhecimento e estudos sobre educação financeira, respeitando os direitos autorais das fontes utilizadas.
 
+O conteúdo permanece pertencente aos respectivos autores e instituições responsáveis por sua publicação.
